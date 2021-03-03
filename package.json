@@ -1,0 +1,14 @@
+{
+  "name": "simple-markdown-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "generate-md --layout template --input ./posts --output ./public"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-styles": "^3.2.0"
+  }
+}
