@@ -5,7 +5,7 @@
 
 ## 更多介绍
 
-[教程(https://www.jingtaiboke.com/simple-markdown-site.html )
+[教程](https://www.jingtaiboke.com/simple-markdown-site.html )
 
 
 ## 二级标题
